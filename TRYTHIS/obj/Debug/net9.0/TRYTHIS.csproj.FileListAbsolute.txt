@@ -1,0 +1,14 @@
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\bin\Debug\net9.0\TRYTHIS.exe
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\bin\Debug\net9.0\TRYTHIS.deps.json
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\bin\Debug\net9.0\TRYTHIS.runtimeconfig.json
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\bin\Debug\net9.0\TRYTHIS.dll
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\bin\Debug\net9.0\TRYTHIS.pdb
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.AssemblyInfoInputs.cache
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.AssemblyInfo.cs
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.csproj.CoreCompileInputs.cache
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.dll
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\refint\TRYTHIS.dll
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.pdb
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\TRYTHIS.genruntimeconfig.cache
+C:\Users\04joh\source\repos\TRYTHIS\TRYTHIS\obj\Debug\net9.0\ref\TRYTHIS.dll
